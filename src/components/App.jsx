@@ -5,7 +5,7 @@ import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
 import { Statistics } from './Statistics/Statistics';
 import { Notification } from './Notification/Notification';
 
-import { useState, useReducer } from 'react';
+import { useState } from 'react';
 
 // refactoring to hooks:
 export const App = () => {
